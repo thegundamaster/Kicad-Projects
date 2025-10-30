@@ -1120,6 +1120,56 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 135.89 62.23) (xy 135.89 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "005266f2-ad8b-4c51-8ef4-fd3354513f9e")
+	)
+	(wire
+		(pts
+			(xy 215.9 29.21) (xy 215.9 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a8c6456-f7a7-4ee2-86ce-49d8ae27dc0d")
+	)
+	(wire
+		(pts
+			(xy 135.89 29.21) (xy 215.9 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ce00997-95d2-45cd-831e-9262dc4df01f")
+	)
+	(wire
+		(pts
+			(xy 156.21 62.23) (xy 135.89 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92b3f8b2-338a-4dc0-897e-06ec824ca967")
+	)
+	(wire
+		(pts
+			(xy 215.9 82.55) (xy 207.01 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8d2518a-2a1f-4178-a79e-f7e089cb5595")
+	)
 	(symbol
 		(lib_id "MCU_RaspberryPi:RP2040")
 		(at 181.61 77.47 0)
